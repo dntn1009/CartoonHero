@@ -1,0 +1,100 @@
+{
+  "EXPStandard": {
+    "EXPData": {
+      "EXP": [
+        80,
+        160,
+        280,
+        440,
+        640,
+        880,
+        1120,
+        1380,
+        1660,
+        1960
+      ]
+    }
+  },
+  "Item": {
+    "Itemlist": {
+      "Item": [
+        "슬라임 조각",
+        "가시거북의 뿔",
+        "HP포션 (소)",
+        "HP포션 (중)"
+      ]
+    }
+  },
+  "Monster": {
+    "가시거북": {
+      "Coin": 20,
+      "Exp": 14,
+      "attack": 38,
+      "criAttack": 80,
+      "criRate": 7,
+      "defence": 15,
+      "dodgeRate": 10,
+      "hitRate": 55,
+      "hp": 450,
+      "hpMax": 450
+    },
+    "슬라임": {
+      "Coin": 10,
+      "Exp": 10,
+      "attack": 35,
+      "criAttack": 80,
+      "criRate": 5,
+      "defence": 10,
+      "dodgeRate": 5,
+      "hitRate": 50,
+      "hp": 400,
+      "hpMax": 400
+    }
+  },
+  "Player": {
+    "Dog": {
+      "attack": 60,
+      "criAttack": 90,
+      "criRate": 15,
+      "defence": 20,
+      "dodgeRate": 15,
+      "hitRate": 65,
+      "hp": 625,
+      "hpMax": 625
+    },
+    "Hero": {
+      "attack": 50,
+      "criAttack": 100,
+      "criRate": 15,
+      "defence": 25,
+      "dodgeRate": 10,
+      "hitRate": 60,
+      "hp": 600,
+      "hpMax": 600
+    },
+    "Magician": ""
+  },
+  "Users": {
+    "ft3XRCCDRvaGq2TsSIwJYMRBUQ13": {
+      "ch_num": [
+        {
+          "Coin": 80,
+          "Exp": 14,
+          "Level": 2,
+          "Nickname": "홍길동",
+          "Point": 0,
+          "Stat": [
+            5,
+            5,
+            5,
+            5
+          ],
+          "Type": "Hero"
+        },
+        ""
+      ],
+      "email": "dntn1009@naver.com",
+      "uid": "ft3XRCCDRvaGq2TsSIwJYMRBUQ13"
+    }
+  }
+}
