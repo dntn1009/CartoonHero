@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://cartoonhero-2a78c-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">551091046061</string>
+  <string name="google_storage_bucket" translatable="false">cartoonhero-2a78c.appspot.com</string>
+  <string name="project_id" translatable="false">cartoonhero-2a78c</string>
+  <string name="google_api_key" translatable="false">AIzaSyBvR8CBIuS29Pxv8IzcN5RQmH32F7vjleg</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBvR8CBIuS29Pxv8IzcN5RQmH32F7vjleg</string>
+  <string name="google_app_id" translatable="false">1:551091046061:android:3b1b7e314d416fd07ce824</string>
+  <string name="default_web_client_id" translatable="false">551091046061-66ji4mkjpis63jh4alprcoshbt8e971l.apps.googleusercontent.com</string>
+</resources>

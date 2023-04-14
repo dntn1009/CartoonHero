@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "551091046061",
+    "firebase_url": "https://cartoonhero-2a78c-default-rtdb.firebaseio.com",
+    "project_id": "cartoonhero-2a78c",
+    "storage_bucket": "cartoonhero-2a78c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551091046061:android:3b1b7e314d416fd07ce824",
+        "android_client_info": {
+          "package_name": "com.SURE.CARTOONHERO"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551091046061-66ji4mkjpis63jh4alprcoshbt8e971l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvR8CBIuS29Pxv8IzcN5RQmH32F7vjleg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551091046061-66ji4mkjpis63jh4alprcoshbt8e971l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

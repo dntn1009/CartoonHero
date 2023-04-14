@@ -1,0 +1,2 @@
+E:\Unity_portfolio\CARTOON_HERO_220321\obj\Debug\Unity.Rider.Editor.csproj.AssemblyReference.cache
+E:\Unity_portfolio\CARTOON_HERO_220321\obj\Debug\Unity.Rider.Editor.csproj.CoreCompileInputs.cache
